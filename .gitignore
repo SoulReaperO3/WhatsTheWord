@@ -1,5 +1,16 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
 
-.expo/README.md
-.expo/settings.json
+# macOS
+.DS_Store
 __pycache__/businessLogic.cpython-38.pyc
 __pycache__/database.cpython-38.pyc
